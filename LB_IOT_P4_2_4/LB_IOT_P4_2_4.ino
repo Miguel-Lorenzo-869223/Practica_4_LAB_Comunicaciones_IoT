@@ -6,6 +6,7 @@
 //  University: University of Zaragoza EINA/UNIZAR
 // ------------------------------------------------------------
 
+
 #include <ArduinoBLE.h>
 #include <Arduino_LSM9DS1.h> // Para Nano 33 BLE Rev1 (Sustituir por Arduino_LSM6DS3.h si usas Rev2)
 
