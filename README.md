@@ -1,6 +1,6 @@
-# Practica_3_LAB_Comunicaciones_IoT
+# Practica_4_LAB_Comunicaciones_IoT
 
-# Practical Exercise 3: Bluetooth Low Energy (BLE) GATT Architecture & Bluetooth Classic SPP
+# Practical Exercise 4: Bluetooth Low Energy (BLE) GATT Architecture & Bluetooth Classic SPP
 
 > **IoT Communications Laboratory**  
 > MSc in Electronic Engineering — University of Zaragoza (EINA/UNIZAR)  
@@ -11,7 +11,7 @@
 
 ## 📌 Project Overview
 
-This repository contains the complete embedded C++ software implementation for **Practical Exercise 3** of the IoT Communications Laboratory. The main objective is to explore, implement, and analyze wireless short-range communication protocols using both **Bluetooth Low Energy (BLE)** and **Bluetooth Classic (BR/EDR)**. 
+This repository contains the complete embedded C++ software implementation for **Practical Exercise 4** of the IoT Communications Laboratory. The main objective is to explore, implement, and analyze wireless short-range communication protocols using both **Bluetooth Low Energy (BLE)** and **Bluetooth Classic (BR/EDR)**. 
 
 The lab is divided into five progressive practical exercises developed across two hardware platforms:
 1. **Arduino Nano 33 BLE:** Used for GATT server implementations, peripheral attribute management, built-in RGB LED control, and IMU sensor telemetry (notifications and control commands).
